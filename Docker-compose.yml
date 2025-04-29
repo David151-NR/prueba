@@ -2,6 +2,6 @@ services:
   web:
     image: python:3.13-alpine 
     build:
-      context: "https://github.com/alejandroreyes27/adso.git"
+      context: "https://github.com/David151-NR/prueba.git"
     volumes:
       - .:/app
